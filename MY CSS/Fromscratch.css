@@ -1,0 +1,33 @@
+body {
+    background-color: #cbf8cb;
+    font-family: Arial, serif;
+    color: black;
+  
+}
+
+header {
+    background-color: white;
+    font-family: Arial, serif;
+    color: darkgreen;
+    padding: 10px;
+    
+}
+
+div {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: navy;
+}
+
+a {
+    color: navy;
+    text-decoration: none;
+}
